@@ -1,0 +1,3 @@
+module Wikepedia {
+	requires okio;
+}
